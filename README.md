@@ -13,8 +13,6 @@ This program is designed for use on Gertboard on which a Atmega328p chip is inst
 Connect PD4 to PB4 of another device. This serves as a receiving medium of clock signal. 
 Connect PD5 to PB5 of another device. This serves as a receiving medium of data signal. 
 
-Connect PB4 to PD4 of another device. This serves as a sending medium of clock signal. 
-Connect PB5 to PD5 of another device. This serves as a sending medium of data signal. 
 
 Lastly, a wire must connect anyone of ground pin of your device to anyone ground pin of other device. 
 
