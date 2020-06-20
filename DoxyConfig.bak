@@ -1,0 +1,11 @@
+PROJECT_NAME = 'davng RaspNet documentation'
+
+INPUT = ./
+
+OUTPUT_DIRECTORY = 
+
+GENERATE_HTML = YES
+
+HTML_OUTPUT = html_docs/
+
+HTML_FILE_EXTENSION = .html
